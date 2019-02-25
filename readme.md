@@ -1,3 +1,8 @@
+1. Fork
+1. Create a feature branch
+1. Clone
+1. Create a Pull Request when done.
+
 # DOTS: The Game
 
 Dots is an interactive game with up to 3 levels. In each level, the user has to click a moving ball until they reach a certain score, at which point they can move on to the next level.
