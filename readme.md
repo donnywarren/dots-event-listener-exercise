@@ -2,11 +2,6 @@
 
 # DOTS: The Game
 
-1. Fork into your account
-1. Create a feature branch
-1. Clone to your machine
-1. Pull Request when done
-
 Dots is an interactive game with up to 3 levels. In each level, the user has to click a moving ball until they reach a certain score, at which point they can move on to the next level.
 
 ## Level 1
